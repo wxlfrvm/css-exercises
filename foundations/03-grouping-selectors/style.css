@@ -1,0 +1,18 @@
+.black,
+.yellow {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.black {
+    background-color: #111111;
+    color: hsl(0, 100%, 100%);
+    font-weight: 900;
+    
+}
+
+.yellow {
+    background-color: hsl(50, 90%, 50%);
+    color: hsl(0, 000%, 000%)
+    
+}
